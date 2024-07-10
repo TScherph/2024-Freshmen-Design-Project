@@ -13,3 +13,7 @@ Throughout the 10 week course, though we had to present the finished project at 
 
 ![image](https://github.com/TScherph/College-Arm-/assets/147080935/10abb577-1513-47fe-930f-80ef4a5a5745)
 
+
+The first design shown features a 20x20 aluminum extrusion as the base for most of the arm, this was before we really focused on the modularity aspect of the project, the fingers freatured also use a screw and nut based linear actuator design using small N20 motors with M3 screws and nuts that drives a linkage allowing the finger to curl. We found a major issue with this design is that it was much too rigid for a project that required as much movement as this did. So I ended up changing it to a tension based design shown in the second photo. This design used the same N20 Motors to pull a cord of fishing line attached inside and at the top of each finger to fight against rubberbands on the back to get the curling motion, when the motor unwound the tension would bring the fingers to the open position. 
+
+This project was presented at the Drexel University Celebration of Engineering Design 2024 competition and we were awarded second place for the freshmen category.
